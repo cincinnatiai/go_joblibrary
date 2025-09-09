@@ -1,6 +1,6 @@
 package request
 
-import "go_joblibrary/model"
+import "github.com/cincinnatiai/go_joblibrary/model"
 
 type JobModelCreateRequest struct {
 	AccountId           string `json:"account_id"`

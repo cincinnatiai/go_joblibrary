@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"go_joblibrary/model"
-	"go_joblibrary/model/request"
+	"github.com/cincinnatiai/go_joblibrary/model"
+	"github.com/cincinnatiai/go_joblibrary/model/request"
 	"log"
 	"os"
 	"time"
